@@ -1,0 +1,3 @@
+/Users/chasse/CLionProjects/AGENDA/cmake-build-debug/CMakeFiles/Agenda.dir
+/Users/chasse/CLionProjects/AGENDA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chasse/CLionProjects/AGENDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
