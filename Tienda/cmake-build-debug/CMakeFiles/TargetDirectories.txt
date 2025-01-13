@@ -1,0 +1,3 @@
+/Users/chasse/CLionProjects/Tienda/cmake-build-debug/CMakeFiles/Tienda.dir
+/Users/chasse/CLionProjects/Tienda/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chasse/CLionProjects/Tienda/cmake-build-debug/CMakeFiles/rebuild_cache.dir
